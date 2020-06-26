@@ -3,4 +3,8 @@
   Legislation API: https://webapi.legistar.com/v1/nyc/matters?Token=token_here_
   current token: Uvxb0j9syjm3aI8h46DhQvnX5skN4aSUL0x_Ee3ty9M.ew0KICAiVmVyc2lvbiI6IDEsDQogICJOYW1lIjogIk5ZQyByZWFkIHRva2VuIDIwMTcxMDI2IiwNCiAgIkRhdGUiOiAiMjAxNy0xMC0yNlQxNjoyNjo1Mi42ODM0MDYtMDU6MDAiLA0KICAiV3JpdGUiOiBmYWxzZQ0KfQ
   
-  
+  An example endpoint for all agenda matters is:
+  https://webapi.legistar.com/v1/nyc/matters?token=TOKENHERE
+
+  help documentation at http://webapi.legistar.com/Home/Examples
+  labs@council.nyc.gov (for any issues)
